@@ -6,3 +6,7 @@
 	path = generic
 	url = git@gitlab.taliform.com:internal/generic.git
 	branch = 13.0-development
+[submodule "hris"]
+	path = hris
+	url = git@gitlab.taliform.com:internal/hris.git
+	branch = 13.0-development
