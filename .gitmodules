@@ -10,3 +10,7 @@
 	path = hris
 	url = git@gitlab.taliform.com:internal/hris.git
 	branch = 13.0-development
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine.git
+	branch = 13.0
